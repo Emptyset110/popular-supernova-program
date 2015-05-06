@@ -1,0 +1,48 @@
+[ 2015-05-01T01:51:17+08:00 ] ::1 /psp/Application/Home/View/__PUBLIC__/js/jquery-1.11.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001347s ]
+ERR: 无法加载模块:Application
+
+[ 2015-05-01T01:51:18+08:00 ] ::1 /psp/Application/Home/View/__PUBLIC__/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+ERR: 无法加载模块:Application
+
+[ 2015-05-01T01:51:18+08:00 ] ::1 /psp/Application/Home/View/__PUBLIC__/css/jquery.fullPage.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001924s ]
+ERR: 无法加载模块:Application
+
+[ 2015-05-01T01:51:18+08:00 ] ::1 /psp/Application/Home/View/__PUBLIC__/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+ERR: 无法加载模块:Application
+
+[ 2015-05-01T01:51:18+08:00 ] ::1 /psp/Application/Home/View/__PUBLIC__/js/jquery.fullPage.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+ERR: 无法加载模块:Application
+
+[ 2015-05-01T01:51:26+08:00 ] ::1 /psp/Application/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+ERR: 无法加载模块:Application
+
+[ 2015-05-01T01:53:46+08:00 ] ::1 /psp/Public/js/jquery.fullPage.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+ERR: 无法加载模块:Public
+
+[ 2015-05-01T02:17:12+08:00 ] ::1 /psp/index.ph
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+ERR: 无法加载模块:Index
+
